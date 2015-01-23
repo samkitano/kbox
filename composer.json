@@ -14,9 +14,6 @@
         "kickbox/kickbox": "*"
     },
     "autoload": {
-        "classmap": [
-            "src/migrations"
-        ],
         "psr-0": {
             "Samkitano\\Kbox\\": "src/"
         }
