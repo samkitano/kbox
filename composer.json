@@ -1,0 +1,26 @@
+{
+    "name": "samkitano/kbox",
+    "description": "An implementation of kickbox.io email validation api for Laravel",
+    "keywords": ["laravel", "kickbox"],
+    "authors": [
+        {
+            "name": "Sam Kitano",
+            "email": "sam.kitano@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "kickbox/kickbox": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Samkitano\\Kbox\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
