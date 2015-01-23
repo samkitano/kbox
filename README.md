@@ -1,8 +1,8 @@
 # Kickbox for Laravel
 
-## Kickbox (http://kickbox.io) is an Email Verification Library for PHP
+## [Kickbox](http://kickbox.io) is an Email Verification Library for PHP
 
-According to [github.com/kickboxio/kickbox-php]:
+According to [kickbox-php](github.com/kickboxio/kickbox-php):
 
 	Kickbox determines if an email address is not only valid, but associated with a actual user. Uses include:
 
